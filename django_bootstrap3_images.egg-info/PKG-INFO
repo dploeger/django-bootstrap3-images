@@ -1,0 +1,25 @@
+Metadata-Version: 1.1
+Name: django-bootstrap3-images
+Version: 1.0-rc1
+Summary: Django model field and widget for storing, retrieving and displaying bootstrap3 glyphicon-images
+Home-page: https://github.com/dploeger/django-bootstrap3-images
+Author: Dennis Ploeger
+Author-email: develop@dieploegers.de
+License: BSD 2-clause License
+Description: Django model field and widget for storing, retrieving and displaying bootstrap3 glyphicon-images
+        
+        For more information, please visit https://github.com/dploeger/django-bootstrap3-images
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Topic :: Software Development :: Libraries :: Application Frameworks
+Classifier: Topic :: Software Development :: Libraries

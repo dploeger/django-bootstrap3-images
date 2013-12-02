@@ -1,0 +1,3 @@
+Django model field and widget for storing, retrieving and displaying bootstrap3 glyphicon-images
+
+For more information, please visit https://github.com/dploeger/django-bootstrap3-images

@@ -1,0 +1,17 @@
+MANIFEST.in
+README
+setup.py
+bootstrap3_images/__init__.py
+bootstrap3_images/admin.py
+bootstrap3_images/fields.py
+bootstrap3_images/models.py
+bootstrap3_images/tests.py
+bootstrap3_images/views.py
+bootstrap3_images/widgets.py
+bootstrap3_images/templatetags/__init__.py
+bootstrap3_images/templatetags/bootstrap3_images.py
+django_bootstrap3_images.egg-info/PKG-INFO
+django_bootstrap3_images.egg-info/SOURCES.txt
+django_bootstrap3_images.egg-info/dependency_links.txt
+django_bootstrap3_images.egg-info/requires.txt
+django_bootstrap3_images.egg-info/top_level.txt

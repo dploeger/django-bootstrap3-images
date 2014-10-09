@@ -10,12 +10,12 @@ retrieving images from the Bootstrap3 glyphicon list. It supports selecting
 those images using a image selector widget.
 
 It obviously uses the Bootstrap3 glyphicons, so
-(http://glyphicons.com/)[Glyphicons] should be praised here.
+[Glyphicons](http://glyphicons.com/) should be praised here.
 
 ## Requirements
 
 You need an integration of Bootstrap3 in your Django app. I recommend using
-(https://github.com/dyve/django-bootstrap3)[Django-Bootstrap3] for that.
+[Django-Bootstrap3](https://github.com/dyve/django-bootstrap3) for that.
 
 ## Installation
 
